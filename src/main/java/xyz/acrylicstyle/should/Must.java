@@ -32,6 +32,10 @@ public class Must<T> {
         return super.equals(must);
     }
 
+    public boolean sameAs(T o) {
+        return object(o);
+    }
+
     public Must<T> be() {
         return this;
     }
