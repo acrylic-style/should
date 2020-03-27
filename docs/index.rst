@@ -1,19 +1,8 @@
-Welcome to the Should documentation!
-==================================================
-
-Table of contents:
+Home
+====
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :glob:
 
    *
-
-
-
-Indexes and Search
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
